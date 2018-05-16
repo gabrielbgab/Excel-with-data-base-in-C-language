@@ -22,7 +22,7 @@ Isso comprova que as macros no excel podem ser perigosas pois uma MAcro pois ger
 que pode modificar o computador e se auto deletar .
 
 
-<.pre>
+</pre>
 
 
 
