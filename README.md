@@ -9,6 +9,7 @@ Recomendo baixar a planilha para treinar excel ou programação.
 Diferentes geradores de numeros aleatorios possuem diferentes caracteristicas e com a planilha é possivel ver quais sao as caracteristicas  de um gerador de numeros aleatorios.
 
 codigos uteis dentro da planilha
+<pre>
 ->como copiar texto de txt para o excel por VBA
 ->como copiar do excel para um txt por VBA
 ->como chamar programa em C por VBA
@@ -21,7 +22,7 @@ Isso comprova que as macros no excel podem ser perigosas pois uma MAcro pois ger
 que pode modificar o computador e se auto deletar .
 
 
-
+<.pre>
 
 
 
