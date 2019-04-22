@@ -1,4 +1,4 @@
-# Planilha lotofácil-Caso de estudo sobre numeros aleatorios
+# Estudo sobre numeros aleatorios
 
 A loteria é um gerador de numeros aleatorio.Na planilha excel é possivel ver a real distribuição estatistica da loteria.
 
